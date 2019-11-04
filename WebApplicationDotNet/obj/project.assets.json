@@ -8,20 +8,25 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Prabin\\.nuget\\packages\\": {}
+    "C:\\Users\\Prabin\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\WebApplicationDotNet\\WebApplicationDotNet.csproj",
+      "projectUniqueName": "C:\\Users\\Prabin\\Desktop\\BlazorProject\\WebApplicationDotNet\\WebApplicationDotNet.csproj",
       "projectName": "WebApplicationDotNet",
-      "projectPath": "C:\\WebApplicationDotNet\\WebApplicationDotNet.csproj",
+      "projectPath": "C:\\Users\\Prabin\\Desktop\\BlazorProject\\WebApplicationDotNet\\WebApplicationDotNet.csproj",
       "packagesPath": "C:\\Users\\Prabin\\.nuget\\packages\\",
-      "outputPath": "C:\\WebApplicationDotNet\\obj\\",
+      "outputPath": "C:\\Users\\Prabin\\Desktop\\BlazorProject\\WebApplicationDotNet\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
         "C:\\Users\\Prabin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
